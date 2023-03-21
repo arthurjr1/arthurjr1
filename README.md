@@ -3,6 +3,20 @@
 
 People first person looking to solve solve society intractable problems with others who are seeking change to the status quo.
 
+### Skills
+
+- Statistics
+- Data wrangling
+- Programming
+  - R/RStudio
+  - git
+ 
+- Statistics and econometrics 
+  - Descriptive analysis
+  - Regression
+  - 
+
+Statiscal Skills
 
 
 
